@@ -108,7 +108,7 @@ This file contains a number of front-end interview questions that can be used wh
   * What needs to be changed to properly make it an IIFE?
 * What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
-* What is a closure, and how/why would you use one?
+* [What is a closure, and how/why would you use one?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.23o1x5ow3)
 * What's a typical use case for anonymous functions?
 * How do you organize your code? (module pattern, classical inheritance?)
 * What's the difference between host objects and native objects?
